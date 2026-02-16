@@ -1,4 +1,4 @@
-# Customer_Shopping_Trend_Analysis
+# Customer Shopping Trend_Analysis
 End-to-end customer trend analysis using Python, SQL Server and Power BI to uncover trends in revenue, demographics, subscriptions, and shopping preferences.
 
 # Dataset
@@ -9,6 +9,10 @@ Customer shopping dataset includes: Age, Gender, Location, Category, Purchase Am
 2.Stored cleaned data in SQL Server
 3.Imported SQL data into Power BI
 4.Built interactive dashboards
+
+# Dashboards:
+<img width="997" height="551" alt="Screenshot 2026-02-16 134802" src="https://github.com/user-attachments/assets/a85964d5-4a9d-4c7e-9222-b472ba85b7c9" />
+<img width="1001" height="562" alt="Screenshot 2026-02-16 134700" src="https://github.com/user-attachments/assets/a86c3b5d-bf68-495a-a15c-3b05506af43e" />
 
 # Key Insights & Business Conclusions
 1. Customer Distribution:
