@@ -46,7 +46,7 @@ There is potential to improve customer experience through service quality and po
 # Overall Business Summary
 Revenue is primarily driven by non-subscribed customers.
 Subscription programs currently show minimal financial impact.
-
 Product category and shipping convenience are stronger purchasing motivators than discounts.
-
 Geographic targeting and improved subscription incentives represent major growth opportunities.
+
+** This project demonstrates practical experience in data preparation, SQL analytics, dashboard development, and business insight generation across the full analytics pipeline. **
