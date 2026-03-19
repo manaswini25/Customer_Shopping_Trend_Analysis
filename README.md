@@ -6,7 +6,7 @@ Customer transactional dataset (~3.9K records)
 Includes product details, customer demographics, purchase behavior, discounts, and payment methods
 
 # Tools & Technologies Used
-Python (pandas, NumPy) – Data cleaning & preprocessing
+Python (pandas, NumPy) – Data cleaning & preprocessing <br>
 SQL Server – Data storage and analytical queries
 Power BI – Dashboarding & visualization
 
