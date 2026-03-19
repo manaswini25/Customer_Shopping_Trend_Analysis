@@ -22,8 +22,8 @@ Power BI – Dashboarding & visualization <br>
 &emsp;- Enabled filtering by demographics, product categories, and regions <br>
 
 # Dashboards:
-<img width="997" height="551" alt="Screenshot 2026-02-16 134802" src="https://github.com/user-attachments/assets/a85964d5-4a9d-4c7e-9222-b472ba85b7c9" />
-<img width="1001" height="562" alt="Screenshot 2026-02-16 134700" src="https://github.com/user-attachments/assets/a86c3b5d-bf68-495a-a15c-3b05506af43e" />
+<img width="1314" height="727" alt="Screenshot 2026-03-19 203948" src="https://github.com/user-attachments/assets/dad81fc7-7415-4dc8-8179-bc13bcbc2d66" />
+<img width="1309" height="735" alt="revenue" src="https://github.com/user-attachments/assets/0d791808-5f63-4150-9ca1-08f8e53f4a32" />
 
 # Key Insights & Business Conclusions
 1.Customer Distribution <br>
