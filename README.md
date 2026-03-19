@@ -27,8 +27,8 @@ Power BI – Dashboarding & visualization <br>
 
 # Key Insights & Business Conclusions
 1.Customer Distribution <br>
-  Customer base (~3.9K) is evenly distributed across age groups <br>
-  No single demographic segment dominates revenue contribution <br>
+<p> Customer base (~3.9K) is evenly distributed across age groups </p> <br>
+<p> No single demographic segment dominates revenue contribution </p>  <br>
 
 2.Subscription Impact <br>
   ~73% of revenue comes from non-subscribed customers <br>
