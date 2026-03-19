@@ -31,7 +31,7 @@ Power BI – Dashboarding & visualization <br>
 &emsp;- No single demographic segment dominates revenue contribution<br>
 
 2.Subscription Impact <br>
-&emsp;- ~73% of revenue comes from non-subscribed customers <br>
+&emsp;- Around 73% of revenue comes from non-subscribed customers <br>
 &emsp;- Average purchase value is similar across both groups (~$59) <br>
 Insight: Subscription program currently has limited impact on customer spending behavior. <br>
 
