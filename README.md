@@ -1,52 +1,60 @@
 # Customer Shopping Trend_Analysis
-End-to-end customer trend analysis using Python, SQL Server and Power BI to uncover trends in revenue, demographics, subscriptions, and shopping preferences.
+Business Problem : The objective of this project is to analyze customer purchasing behavior and identify key factors influencing revenue. The goal is to help businesses understand customer segments, evaluate the effectiveness of discounts, and optimize sales strategies.
 
 # Dataset
-Customer shopping dataset includes: Age, Gender, Location, Category, Purchase Amount, Subscription Status, Previous purchases, item_purcahsed, Payment method, Shipping Type, Review Rating
+Customer transactional dataset (~3.9K records)
+Includes product details, customer demographics, purchase behavior, discounts, and payment methods
+
+# Tools & Technologies Used
+Python (pandas, NumPy) – Data cleaning & preprocessing
+SQL Server – Data storage and analytical queries
+Power BI – Dashboarding & visualization
 
 # Project Workflow
-1.Data Cleaning & EDA in Python
-2.Stored cleaned data in SQL Server
-3.Imported SQL data into Power BI
-4.Built interactive dashboards
+1.Data Cleaning & Exploration (Python)
+  Handled missing values and standardized columns
+  Performed exploratory data analysis to understand distributions and patterns
+2.Data Storage & Processing (SQL Server)
+  Loaded cleaned dataset into SQL Server
+  Performed aggregations and analytical queries to extract insights
+3.Visualization (Power BI)
+  Built interactive dashboards to track KPIs and customer trends
+  Enabled filtering by demographics, product categories, and regions
 
 # Dashboards:
 <img width="997" height="551" alt="Screenshot 2026-02-16 134802" src="https://github.com/user-attachments/assets/a85964d5-4a9d-4c7e-9222-b472ba85b7c9" />
 <img width="1001" height="562" alt="Screenshot 2026-02-16 134700" src="https://github.com/user-attachments/assets/a86c3b5d-bf68-495a-a15c-3b05506af43e" />
 
 # Key Insights & Business Conclusions
-1. Customer Distribution:
-The dataset contains approximately 3.9K unique customers.
-Customer age groups are evenly distributed across Young, Adult, Middle-aged, and Senior segments.
-No single demographic group overwhelmingly dominates the customer base.
+1.Customer Distribution
+  Customer base (~3.9K) is evenly distributed across age groups
+  No single demographic segment dominates revenue contribution
 
-2. Subscription Impact:
-Non-subscribed customers contribute approximately 73% of total revenue.
-Average purchase amount is nearly identical for subscribed and non-subscribed users (~$59).
-Subscription status does not significantly influence spending behavior.
+2.Subscription Impact
+  ~73% of revenue comes from non-subscribed customers
+  Average purchase value is similar across both groups (~$59)
+Insight: Subscription program currently has limited impact on customer spending behavior.
 
-Business Insight:The current subscription program does not provide strong financial incentives. This presents an opportunity to redesign subscription benefits to improve adoption and customer lifetime value.
+3.Revenue Drivers
+  Clothing and Accessories are top-performing categories
+  Free Shipping and Express Shipping contribute highest revenue
+  Credit Card and PayPal are dominant payment methods
+  Revenue is concentrated in a few high-performing regions
+Insight: Customer purchase decisions are influenced more by product category and convenience than loyalty programs.
 
-3. Revenue Drivers:
-Clothing and Accessories generate the highest revenue among product categories.
-Free Shipping and Express Shipping lead in revenue contribution among shipping types.
-Credit Card and PayPal are the most commonly used payment methods.
-Geographic revenue distribution shows noticeable variation, with a small group of states contributing the highest sales volumes.
+4.Discount Effectiveness
+  Non-discounted purchases generate higher overall revenue
+  Discounts do not significantly increase spending
+Insight: Current discount strategies may not be effectively driving incremental revenue.
 
-4. Discount Effectiveness
-Orders without discounts generate higher total revenue than discounted purchases.
-Discount usage does not strongly correlate with increased spending.
+5.Customer Satisfaction
+  Average rating: ~3.75 (moderate satisfaction level)
+Insight: Improving customer experience could enhance retention and long-term value.
 
-Business Insight:Discount strategies may not be effectively driving incremental revenue and should be reviewed for optimization.
+# Business Recommendations
+  Redesign subscription model to provide stronger value propositions
+  Optimize discount strategies based on actual impact
+  Focus on high-performing product categories and regions
+  Improve customer experience to increase satisfaction and retention
 
-5. Customer Ratings
-Average customer rating is approximately 3.75, indicating moderate satisfaction.
-There is potential to improve customer experience through service quality and post-purchase engagement.
-
-# Overall Business Summary
-Revenue is primarily driven by non-subscribed customers.
-Subscription programs currently show minimal financial impact.
-Product category and shipping convenience are stronger purchasing motivators than discounts.
-Geographic targeting and improved subscription incentives represent major growth opportunities.
-
-** This project demonstrates practical experience in data preparation, SQL analytics, dashboard development, and business insight generation across the full analytics pipeline. **
+** This project demonstrates an end-to-end analytics workflow:Data cleaning (Python),Data querying (SQL),Data visualization (Power BI),Translating data into business insights **
